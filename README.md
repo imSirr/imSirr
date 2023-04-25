@@ -1,16 +1,21 @@
-### Hi there 👋
+### 👋 Hey!
+I'm Sir, a strategic manager for different types of projects.
+- 👁 Sales & Marketing Manager @ Blinkoh, LLC.
+- 💫 Staff Manager @ Cavern.
 
-<!--
-**imSirr/imSirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
+- Project Management;
+- Community Management;
+- Staff Management;
+- Marketing Management;
+- Adobe Photoshop;
+- Adobe Premiere Pro;
+- Sony Vegas Pro;
+- Writing;
+- Basic understanding of HTML and CSS;
+- Proficient in Minecraft Setups & Configuration;
+- Proficient in Discord Setups.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+- 📩 Email: [sirserv@proton.me](mailto:sirserv@proton.me)
+- 🔍 Discord: [Sir#4444](https://lookup.guru/185584218263257088)
