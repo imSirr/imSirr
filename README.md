@@ -1,7 +1,5 @@
 ### 👋 Hey!
 I'm Sir, a strategic manager for different types of projects.
-- 👁 Sales & Marketing Manager @ Blinkoh, LLC.
-- 💫 Staff Manager @ Cavern.
 
 ### Skills
 - Project Management;
