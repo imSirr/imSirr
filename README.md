@@ -12,6 +12,7 @@ I'm Sir, a strategic manager for different types of projects.
 - Writing;
 - Basic understanding of HTML and CSS;
 - Proficient in Minecraft Setups & Configuration;
+- Proficient in Graphic Design;
 - Proficient in Discord Setups.
 
 ### Contact
