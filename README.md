@@ -17,4 +17,4 @@ I'm Sir, a strategic manager for different types of projects.
 
 ### Contact
 - 📩 Email: [sirserv@proton.me](mailto:sirserv@proton.me)
-- 🔍 Discord: [Sir#4444](https://lookup.guru/185584218263257088)
+- 🔍 Discord: [@iamsir](https://lookup.guru/185584218263257088)
