@@ -33,8 +33,8 @@
 
 ### 📌 What I'm Building
 
-- ⚡ **[spark-analyzer](https://github.com/imSirr/spark-analyzer)** — Analyze Minecraft spark reports and get suggestions based on performance.
-- 🗺️ **[world-converter](https://github.com/imSirr/world-converter)** — Convert a Minecraft server world to singleplayer world format.
+- ⚡ **[spark-analyzer](https://github.com/imSirr/spark-analyzer)** — Analyze spark reports and get suggestions based on performance.
+- 🗺️ **[world-converter](https://github.com/imSirr/world-converter)** — Convert a server world to singleplayer world format.
 
 ---
 
