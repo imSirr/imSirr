@@ -13,8 +13,6 @@
   </a>
   <a href="https://wisehosting.com">
     <img src="https://img.shields.io/badge/WiseHosting-5865F2?style=for-the-badge&logo=serverfault&logoColor=white" alt="WiseHosting" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=imSirr&style=for-the-badge&color=2ea44f" alt="Profile views" />
 </p>
 
 ---
