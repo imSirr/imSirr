@@ -37,5 +37,5 @@
 ---
 
 <p align="center">
-  <i>🍀 FYI, discord is @iamsir</i>
+  <i>🍀 FYI, I have a <a href="https://discord.gg/b7NuMVUt4x">Discord server</a> too...</i>
 </p>
