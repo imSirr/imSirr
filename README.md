@@ -33,6 +33,7 @@
 
 - ⚡ **[spark-analyzer](https://github.com/imSirr/spark-analyzer)** — Analyze spark reports and get suggestions based on performance.
 - 🗺️ **[world-converter](https://github.com/imSirr/world-converter)** — Convert a server world to singleplayer world format.
+- 📦 **[serverpack-converter](https://github.com/imSirr/serverpack-converter)** — Turn a Minecraft modpack into a ready to run server pack, entirely in your browser.
 
 ---
 
