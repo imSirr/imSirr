@@ -11,8 +11,6 @@
   <a href="https://korgemae.eu">
     <img src="https://img.shields.io/badge/Website-korgemae.eu-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://wisehosting.com">
-    <img src="https://img.shields.io/badge/WiseHosting-5865F2?style=for-the-badge&logo=serverfault&logoColor=white" alt="WiseHosting" />
 </p>
 
 ---
